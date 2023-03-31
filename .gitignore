@@ -1,0 +1,14 @@
+# node
+node_modules/
+dist/
+
+# nargo
+proofs/
+contract/
+target/circuit.json
+target/circuit.json.checksum
+target/circuit.pk
+target/circuit.vk
+target/witness.tr
+Prover.toml
+Verifier.toml
